@@ -1,0 +1,22 @@
+# 🤖 Simple AI Chatbot
+
+This is a beginner AI chatbot project built using Python.
+
+## Features
+- Responds to simple messages
+- Interactive chatbot
+- Exit option using "bye"
+
+## Technologies Used
+- Python
+
+## Example Chat
+
+You: hi  
+Bot: Hello!
+
+You: how are you  
+Bot: I'm fine!
+
+You: bye  
+Bot: Goodbye!
